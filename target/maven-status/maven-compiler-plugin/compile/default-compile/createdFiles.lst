@@ -1,0 +1,13 @@
+br\com\cris\pan\ecommerce\ecommerce\repository\VendaRepository.class
+br\com\cris\pan\ecommerce\ecommerce\repository\UsuarioRepository.class
+br\com\cris\pan\ecommerce\ecommerce\EcommerceApplication.class
+br\com\cris\pan\ecommerce\ecommerce\entity\form\ProdutoForm.class
+br\com\cris\pan\ecommerce\ecommerce\entity\VendaItem.class
+br\com\cris\pan\ecommerce\ecommerce\repository\ProdutoRepository.class
+br\com\cris\pan\ecommerce\ecommerce\entity\form\UsuarioForm.class
+br\com\cris\pan\ecommerce\ecommerce\service\UsuarioService.class
+br\com\cris\pan\ecommerce\ecommerce\entity\Venda.class
+br\com\cris\pan\ecommerce\ecommerce\entity\Produto.class
+br\com\cris\pan\ecommerce\ecommerce\entity\form\VendaItemForm.class
+br\com\cris\pan\ecommerce\ecommerce\entity\Usuario.class
+br\com\cris\pan\ecommerce\ecommerce\entity\form\VendaForm.class
